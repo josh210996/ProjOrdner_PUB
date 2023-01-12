@@ -102,7 +102,7 @@ Start-Sleep -Seconds 10
 Write-Host "Pause abgeschlossen, SKriptausführung wird fortgesetzt."
 
 
-#Überprüfung ob Installationsordner bereits vorhanden (Erstellung durch PMO)
+#Überprüfung ob Installationsordner bereits vorhanden
 
 function FolderCheck
 {
